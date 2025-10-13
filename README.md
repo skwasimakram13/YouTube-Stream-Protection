@@ -1,4 +1,4 @@
-# 🛡️ YouTube Stream Protection (Anti-Bot View System for OBS)
+# YouTube Stream Protection (Anti-Bot View System for OBS)
 
 ## 🎯 Problem
 Someone is using SMM panels to send **bot/fake live views** to your YouTube stream.  
