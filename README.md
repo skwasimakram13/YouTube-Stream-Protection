@@ -1,5 +1,9 @@
 # YouTube Stream Protection (Anti-Bot View System for OBS)
 
+---
+[![Help Gaza](http://skwasimakram.com/upload/help-gaza.svg)](https://www.muslimglobalrelief.org/gaza-emergency-appeal/)
+---
+
 ## 🎯 Problem
 Someone is using SMM panels to send **bot/fake live views** to your YouTube stream.  
 These fake views can:
@@ -186,8 +190,36 @@ No resale or commercial redistribution permitted.
 
 ---
 
-## 💬 Author
-**Wassu**  
-Professional streamer & developer  
-💻 https://skwasimakram.com
-📺 Focused on secure, bot-free live streaming setup.
+# Contribution Guide
+- Fork repository
+- Create branch: `feature/xxx` or `bugfix/yyy`
+- Follow code style
+- Create PR with description and linked issue
+- CI must pass before merge
+
+
+# License & Contact
+- MIT License — you may use and modify the code for your organization. Include attribution if you redistribute.
+- For commercial / closed-source product consider proprietary license.
+- This guide is open for personal and educational use.
+- No resale or commercial redistribution permitted.
+
+**Contact**: Project owner / maintainer - hello@skwasimakram.com
+
+---
+## Author
+**Develope By** - [Sk Wasim Akram](https://github.com/skwasimakram13)
+
+- 👨‍💻 All of my projects are available at [https://skwasimakram.com](https://skwasimakram.com)
+
+- 📝 I regularly write articles on [https://blog.skwasimakram.com](https://blog.skwasimakram.com)
+
+- 📫 How to reach me **hello@skwasimakram.com**
+
+- 🧑‍💻 Google Developer Profile [https://g.dev/skwasimakram](https://g.dev/skwasimakram)
+
+- 📲 LinkedIn [https://www.linkedin.com/in/sk-wasim-akram](https://www.linkedin.com/in/sk-wasim-akram)
+
+---
+
+💡 *Built with ❤️ and creativity by Wassu.*
