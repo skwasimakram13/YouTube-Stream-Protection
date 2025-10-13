@@ -162,6 +162,10 @@ Then:
 - Use **“Unlisted” test streams** to experiment safely.
 - Use a **VPN or proxy for relay** if your IP is being targeted.
 - Don’t expose your **actual YouTube RTMP URL or key** publicly.
+- Use YouTube Live Redirect feature (you can set it up in advance!)
+   → It automatically sends everyone from the ended stream to your new one.
+- Disable “Allow embedding”: → Prevents bots from viewing your stream through hidden iframes (a common SMM method).
+(Go to Channel Settings → Advanced → uncheck "Allow embedding")
 
 ---
 
