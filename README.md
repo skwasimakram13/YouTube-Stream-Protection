@@ -1,5 +1,5 @@
 # YouTube Stream Protection (Anti-Bot View System for OBS)
-ALT + 0151 ——> For long Hyphen | ALT + 0150 ——> For short Hyphen  
+*ALT + 0151 ——> For long Hyphen | ALT + 0150 ——> For short Hyphen*  
 
 ---
 [![Help Gaza](http://skwasimakram.com/upload/help-gaza.svg)](https://www.muslimglobalrelief.org/gaza-emergency-appeal/)
