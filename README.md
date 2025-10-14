@@ -187,7 +187,7 @@ C:\nginx\
 
 # YouTube Bot / Fake View Protection — Advanced Guide (Windows)
 
-## 4. ⚡ Limit Access with Dynamic Push — Detailed Steps (Windows)
+## 3. ⚡ Limit Access with Dynamic Push — Detailed Steps (Windows)
 
 ### Goal
 Make it harder for attackers to predict and reuse your ingest by rotating the RTMP push target (e.g., switching between a.rtmp.youtube.com/live2/KEY, b.rtmp.youtube.com/live2/KEY, or multiple keys). This is done on the relay (nginx) side so OBS never needs to change.
@@ -337,7 +337,7 @@ $replacement = "push rtmp://$host/live2/$next;"
 
 ---
 
-## 5. 🧩 Use YouTube API to Monitor View Source — Detailed Steps (Windows + Python)
+## 4. 🧩 Use YouTube API to Monitor View Source — Detailed Steps (Windows + Python)
 
 ### Goal
 Automatically detect suspicious spikes (concurrent viewers, short watch time, or odd traffic sources) and alert or trigger rotation.
